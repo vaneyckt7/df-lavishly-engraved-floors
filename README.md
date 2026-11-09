@@ -5,6 +5,10 @@ dwarf face, with a seamless octagon lattice carrying a small quatrefoil boss. Th
 four greys of the Dark Floors stone, so an engraved room reads as one continuous carved floor that
 matches the surrounding smoothed stone.
 
+![Engraved hall](docs/hero.png)
+
+Next to a stockpile on rough stone:
+
 ![In game](docs/ingame.png)
 
 ## The engraving
