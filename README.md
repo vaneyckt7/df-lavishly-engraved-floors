@@ -40,4 +40,4 @@ Load it after any other mod that changes stone floors if you want its floor shee
 - Mod structure and the Dark Floors stone sheet come from
   [Sumptuously Engraved Floors](https://steamcommunity.com/sharedfiles/filedetails/?id=3429443204)
   by FeralFerret, whose tile was in turn inspired by Kruggsmash's Northbridge series.
-- Engraving design and pixel work by Tom Van Eyck.
+- Engraving design and pixel work by vaneyckt7.
