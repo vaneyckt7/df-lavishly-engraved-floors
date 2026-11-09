@@ -1,0 +1,23 @@
+tile_page_environment_lavish_floors
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:FLOOR_STONE_ENGRAVED_NON_PALETTE_LAVISH]
+	[FILE:images/floor_lavish_stone_engraved_non_palette.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:1:1]
+
+[TILE_PAGE:FLOOR_STONE_ENGRAVED_PALETTE_LAVISH]
+	[FILE:images/floor_lavish_stone_engraved_palette.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:1:1]
+
+[TILE_PAGE:LAVISH_DARK_FLOORS]
+	[FILE:images/lavish_dark_floors.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:9:15]
+
+[TILE_PAGE:LAVISH_DARK_ALT_FLOORS]
+	[FILE:images/lavish_dark_floors.bmp]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:9:15]
