@@ -8,4 +8,6 @@
 [STEAM_TITLE:Lavishly Engraved Floors]
 [STEAM_DESCRIPTION:Replaces the vanilla engraved floor (the dwarf face) with a seamless octagon lattice carrying a small quatrefoil boss, drawn in the four greys of the Dark Floors stone so engraved rooms read as one continuous carved floor. Band and emblem sit on the darkest grey and the octagon field on the lightest, so the pattern still reads as rings when zoomed out. Also includes the Dark Floors grey stone sheet for rough and smooth stone floors, with slightly stronger cracks on smooth floors. Graphics only, safe to add to or remove from an existing world. Structure and floor sheet based on Sumptuously Engraved Floors by FeralFerret.]
 [STEAM_TAG:graphics]
+[STEAM_CHANGELOG:Workshop category set to Graphics. No functional changes.]
+[STEAM_FILE_ID:3836534634]
 [DESCRIPTION:Replaces the vanilla engraved floor with a seamless octagon lattice and quatrefoil boss in the Dark Floors greys. Includes the Dark Floors stone sheet with slightly stronger cracks on smooth floors. Based on Sumptuously Engraved Floors by FeralFerret.]

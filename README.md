@@ -32,6 +32,8 @@ Graphics only. It can be added to or removed from an existing world without affe
 
 ## Install
 
+Subscribe on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3836534634), or install manually:
+
 - Steam Workshop: subscribe, then add the mod when creating a new world (or via the mod manager for
   an existing one).
 - Manual: copy this folder to `Dwarf Fortress/mods/lavishly_engraved_floors/` and pick it in the
